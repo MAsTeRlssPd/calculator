@@ -1,1 +1,3 @@
 # calculator
+A Project by Odin Project <br> 
+This project is a fully functional, browser-based calculator built as the final capstone for The Odin Project’s Foundations curriculum. The primary focus was combining semantic HTML, clean CSS grid/flexbox styling, and complex JavaScript logic to handle multi-step mathematical operations. Through this project, I mastered state management, event delegation for button clicks, keyboard support integration, string-to-number parsing, and edge-case error handling (such as preventing division by zero), resulting in a polished and interactive user interface.
